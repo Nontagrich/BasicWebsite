@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&family=Rubik+Marker+Hatch&display=swap');
+body {
+    background: black
+}
+.navbar {
+    background-color: #191919;
+    border: solid 2px;
+    border-color: chartreuse;
+    border-radius: 20px;
+    font-family: 'DynaPuff', cursive;
+    color: white;
+}
+.navbar li{
+    display: inline;
+    margin: 0px 20px;
+    font-size: 20px;
+    
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.card{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'DynaPuff', cursive;
+    color: aliceblue;
+}
+.pic{
+    width: 250px;
+    height: 400px;
+}
+
+.content{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'DynaPuff', cursive;
+    color: aliceblue;
+    
+}

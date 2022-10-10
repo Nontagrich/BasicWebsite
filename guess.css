@@ -1,0 +1,28 @@
+.jotaro img {
+    width: 680px;
+    position: absolute;
+    left: 400px;
+}
+.conver img{
+    width: 680px;
+    position: absolute;
+    left: 400px;
+    top: 500px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.but{
+    width: 200px;
+    position: absolute;
+    left: 940px;
+    top: 560px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    background: url(https://static.jojowiki.com/images/thumb/b/b0/latest/20201028002425/Egypt_Desert.png/400px-Egypt_Desert.png);
+    background-size: cover;
+}

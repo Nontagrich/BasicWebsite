@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&family=Rubik+Marker+Hatch&display=swap');
+
+body{
+    background: url(https://c4.wallpaperflare.com/wallpaper/390/670/418/black-charizard-pokemon-white-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+.main {
+    background-color: #191919;
+    border: solid 2px;
+    border-color: cyan;
+    border-radius: 20px;
+    font-family: 'DynaPuff', cursive;
+    color: white;
+}
+.main li{
+    display: inline;
+    margin: 0px 20px;
+    font-size: 20px;
+    
+}
+.main a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    font-family: 'DynaPuff', cursive;
+    text-align: center;
+}
+
+.realm {
+    margin: 10px 500px;
+    color: white;
+    background-color: #191919;
+    border-color: cyan;
+}
+
+.neo{
+    font-size: 30px;
+}
+.photo img{
+    width: 50px;
+    height: 50px;
+}
+

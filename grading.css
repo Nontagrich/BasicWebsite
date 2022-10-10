@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&family=Rubik+Marker+Hatch&display=swap');
+
+.mid {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'DynaPuff', cursive;
+    color: aliceblue;
+}
+.navbar {
+    background-color: #191919;
+    border: solid 2px;
+    border-color: gold;
+    border-radius: 20px;
+    font-family: 'DynaPuff', cursive;
+    color: white;
+}
+.navbar li{
+    display: inline;
+    margin: 0px 20px;
+    font-size: 20px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+.think {
+    font-family: 'DynaPuff', cursive;
+    text-align: center;
+    margin: 0px 10px 0px 50px;
+    font-size: 30px;
+    color: white;
+}
+.think1 {
+    font-family: 'DynaPuff', cursive;
+    text-align: center;
+    margin: 0px 10px 0px 50px;
+    font-size: 30px;
+    
+}
+body {
+    background: url(https://c4.wallpaperflare.com/wallpaper/390/670/418/black-charizard-pokemon-white-wallpaper-preview.jpg);
+    background-size: cover;
+}
